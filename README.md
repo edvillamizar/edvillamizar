@@ -16,11 +16,13 @@ y completando mi certificado de profesionalidad en construcción de páginas web
 
 | Proyecto | Descripción | Demo |
 |----------|-------------|------|
-| Portfolio personal | Sitio web personal con glassmorphism y formulario de contacto | [Ver](https://edwin-alejandro-portfolio.netlify.app) |
+| Portfolio personal | Sitio web personal con glassmorphism y formulario de contacto | [Ver](https://portfolio-edwin-alejandro-villamizar.netlify.app/) |
 | Gym Project | Landing page para gimnasio con diseño responsive | [Ver](https://project-gym-edwin-alejandro.netlify.app) |
 | Entre Costuras | Sitio web para negocio local de costura | [Ver](https://entrecosturas.netlify.app) |
+| Restaurant Project | Landing page para restaurante | [Ver](https://proyecto-restaurante-edwin.netlify.app/) |
+
 
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-villamizar-díaz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://edwin-alejandro-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://portfolio-edwin-alejandro-villamizar.netlify.app/)
