@@ -13,12 +13,12 @@ y completando mi certificado de profesionalidad en construcción de páginas web
 
 ## 🚀 Proyectos
 
-| Proyecto | Descripción | Demo |
-|----------|-------------|------|
-| Portfolio personal | Sitio web personal con glassmorphism y formulario de contacto | [Ver demo](https://portfolio-edwin-alejandro-villamizar.pages.dev/) |
-| Proyecto Gym | Landing page para gimnasio con diseño responsive | [Ver demo](https://proyecto-gym.pages.dev/) |
-| Entre Costuras | Sitio web para negocio local de costura | [Ver demo](https://proyecto-entre-costuras.pages.dev/) |
-| Proyecto restaurante | Landing page para restaurante | [Ver demo](https://proyecto-restaurante.pages.dev/) |
+| Proyecto | Descripción | Demo | Código |
+|---|---|---|---|
+| Portfolio | Web personal para captar clientes locales | [Ver](https://portfolio-edwin-alejandro-villamizar.pages.dev/) | [Repo](https://github.com/edvillamizar/REPO) |
+| Entre Costuras | Web real para un taller de arreglos en Granada | [Ver](https://proyecto-entre-costuras.pages.dev/) | [Repo](https://github.com/edvillamizar/REPO) |
+| 958 Burgers | Restaurante ficticio con carta filtrable y pedido por WhatsApp | [Ver](https://proyecto-restaurante.pages.dev/) | [Repo](https://github.com/edvillamizar/proyecto_restaurante) |
+| Gym Project | Landing de gimnasio, adaptable a móviles | [Ver](https://proyecto-gym.pages.dev/) | [Repo](https://github.com/edvillamizar/REPO) |
 
 
 ## 📫 Contacto
