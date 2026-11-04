@@ -26,8 +26,8 @@ HTML, CSS y JavaScript sin librerías. Tres demos para Granada (proyectos demost
 | Fontanería Darro: landing de un fontanero | [Ver demo](https://demo-fontanero.pages.dev/) | [Repositorio](https://github.com/edvillamizar/demo-fontanero) |
 | Reformas Albayzín: empresa de reformas | [Ver demo](https://demo-albanil.pages.dev/) | [Repositorio](https://github.com/edvillamizar/demo-albanil) |
 | Cartuja Barber Club: barbería con reserva por WhatsApp | [Ver demo](https://demo-barberia-dek.pages.dev/) | [Repositorio](https://github.com/edvillamizar/demo-barberia) |
-| 958 Burgers | Restaurante ficticio con carta filtrable y pedido por WhatsApp | [Ver](https://proyecto-restaurante.pages.dev/) | [Repo](https://github.com/edvillamizar/proyecto_restaurante) |
-| Gym Project | Landing de gimnasio, adaptable a móviles | [Ver](https://proyecto-gym.pages.dev/) | [Repo](https://github.com/edvillamizar/REPO) |
+| 958 Burgers | Restaurante ficticio | [Ver demo](https://proyecto-restaurante.pages.dev/) | [Repo](https://github.com/edvillamizar/proyecto_restaurante) |
+| Gym Project | Landing de gimnasio| [Ver demo](https://proyecto-gym.pages.dev/) | [Repo](https://github.com/edvillamizar/REPO) |
 
 
 ## 📫 Contacto
