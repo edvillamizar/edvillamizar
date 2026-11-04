@@ -16,7 +16,16 @@ y completando mi certificado de profesionalidad en construcción de páginas web
 | Proyecto | Descripción | Demo | Código |
 |---|---|---|---|
 | Portfolio | Web personal para captar clientes locales | [Ver](https://portfolio-edwin-alejandro-villamizar.pages.dev/) | [Repo](https://github.com/edvillamizar/REPO) |
-| Entre Costuras | Web real para un taller de arreglos en Granada | [Ver](https://proyecto-entre-costuras.pages.dev/) | [Repo](https://github.com/edvillamizar/REPO) |
+| Entre Costuras | Web real para un taller de arreglos en Granada | [Ver](https://proyecto-entre-costuras.pages.dev/) | [Repo](https://github.com/edvillamizar/REPO) |  
+### Plantilla web para negocios locales y oficios
+
+HTML, CSS y JavaScript sin librerías. Tres demos para Granada (proyectos demostrativos):
+
+| Proyecto | Demo | Código |
+|---|---|---|
+| Fontanería Darro: landing de un fontanero | [Ver demo](https://demo-fontanero.pages.dev/) | [Repositorio](https://github.com/edvillamizar/demo-fontanero) |
+| Reformas Albayzín: empresa de reformas | [Ver demo](https://demo-albanil.pages.dev/) | [Repositorio](https://github.com/edvillamizar/demo-albanil) |
+| Cartuja Barber Club: barbería con reserva por WhatsApp | [Ver demo](https://demo-barberia-dek.pages.dev/) | [Repositorio](https://github.com/edvillamizar/demo-barberia) |
 | 958 Burgers | Restaurante ficticio con carta filtrable y pedido por WhatsApp | [Ver](https://proyecto-restaurante.pages.dev/) | [Repo](https://github.com/edvillamizar/proyecto_restaurante) |
 | Gym Project | Landing de gimnasio, adaptable a móviles | [Ver](https://proyecto-gym.pages.dev/) | [Repo](https://github.com/edvillamizar/REPO) |
 
