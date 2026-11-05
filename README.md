@@ -15,7 +15,7 @@ y completando mi certificado de profesionalidad en construcción de páginas web
 
 | Proyecto | Descripción | Demo | Código |
 |---|---|---|---|
-| Portfolio | Web personal para captar clientes locales | [Ver demo](https://edwinvillamizardiaz.com/) | [Repo](https://github.com/edvillamizar/REPO) |
+| Portfolio | Web personal para captar clientes locales | [Ver demo](https://edwinvillamizardiaz.com) | [Repo](https://github.com/edvillamizar/REPO) |
 | Entre Costuras | Web real para un taller de arreglos en Granada | [Ver demo](https://proyecto-entre-costuras.pages.dev/) | [Repo](https://github.com/edvillamizar/REPO) |  
 ### Plantilla web para negocios locales y oficios
 
@@ -33,4 +33,4 @@ HTML, CSS y JavaScript sin librerías. Tres demos para Granada (proyectos demost
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/edwinvillamizardiaz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://portfolio-edwin-alejandro-villamizar.pages.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://edwinvillamizardiaz.com)
