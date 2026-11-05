@@ -15,7 +15,7 @@ y completando mi certificado de profesionalidad en construcción de páginas web
 
 | Proyecto | Descripción | Demo | Código |
 |---|---|---|---|
-| Portfolio | Web personal para captar clientes locales | [Ver demo](https://portfolio-edwin-alejandro-villamizar.pages.dev/) | [Repo](https://github.com/edvillamizar/REPO) |
+| Portfolio | Web personal para captar clientes locales | [Ver demo](https://edwinvillamizardiaz.com/) | [Repo](https://github.com/edvillamizar/REPO) |
 | Entre Costuras | Web real para un taller de arreglos en Granada | [Ver demo](https://proyecto-entre-costuras.pages.dev/) | [Repo](https://github.com/edvillamizar/REPO) |  
 ### Plantilla web para negocios locales y oficios
 
