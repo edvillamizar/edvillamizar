@@ -21,13 +21,13 @@ y completando mi certificado de profesionalidad en construcción de páginas web
 
 HTML, CSS y JavaScript sin librerías. Tres demos para Granada (proyectos demostrativos):
 
-| Proyecto | Demo | Código |
+| Proyecto | Descripción | Demo | Código |
 |---|---|---|
-| Fontanería Darro: Landing de un fontanero | [Ver demo](https://demo-fontanero.pages.dev/) | [Repo](https://github.com/edvillamizar/demo-fontanero) |
-| Reformas Albayzín: Empresa de reformas | [Ver demo](https://demo-albanil.pages.dev/) | [Repo](https://github.com/edvillamizar/demo-albanil) |
-| Cartuja Barber Club: Barbería con reserva por WhatsApp | [Ver demo](https://demo-barberia-dek.pages.dev/) | [Repo](https://github.com/edvillamizar/demo-barberia) |
-| 958 Burgers: Restaurante ficticio | [Ver demo](https://proyecto-restaurante.pages.dev/) | [Repo](https://github.com/edvillamizar/proyecto_restaurante) |
-| Gym Project: Landing de gimnasio| [Ver demo](https://proyecto-gym.pages.dev/) | [Repo](https://github.com/edvillamizar/REPO) |
+| Fontanería Darro | Landing de un fontanero | [Ver demo](https://demo-fontanero.pages.dev/) | [Repo](https://github.com/edvillamizar/demo-fontanero) |
+| Reformas Albayzín | Empresa de reformas | [Ver demo](https://demo-albanil.pages.dev/) | [Repo](https://github.com/edvillamizar/demo-albanil) |
+| Cartuja Barber Club | Barbería con reserva por WhatsApp | [Ver demo](https://demo-barberia-dek.pages.dev/) | [Repo](https://github.com/edvillamizar/demo-barberia) |
+| 958 Burgers | Restaurante ficticio | [Ver demo](https://proyecto-restaurante.pages.dev/) | [Repo](https://github.com/edvillamizar/proyecto_restaurante) |
+| Gym Project | Landing de gimnasio| [Ver demo](https://proyecto-gym.pages.dev/) | [Repo](https://github.com/edvillamizar/REPO) |
 
 
 ## 📫 Contacto
