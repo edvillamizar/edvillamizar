@@ -22,7 +22,7 @@ y completando mi certificado de profesionalidad en construcción de páginas web
 HTML, CSS y JavaScript sin librerías. Tres demos para Granada (proyectos demostrativos):
 
 | Proyecto | Descripción | Demo | Código |
-|---|---|---|
+|---|---|---|---|
 | Fontanería Darro | Landing de un fontanero | [Ver demo](https://demo-fontanero.pages.dev/) | [Repo](https://github.com/edvillamizar/demo-fontanero) |
 | Reformas Albayzín | Empresa de reformas | [Ver demo](https://demo-albanil.pages.dev/) | [Repo](https://github.com/edvillamizar/demo-albanil) |
 | Cartuja Barber Club | Barbería con reserva por WhatsApp | [Ver demo](https://demo-barberia-dek.pages.dev/) | [Repo](https://github.com/edvillamizar/demo-barberia) |
